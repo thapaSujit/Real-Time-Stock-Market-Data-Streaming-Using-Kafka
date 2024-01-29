@@ -2,6 +2,10 @@
 
 This repository demonstrates a simple implementation of real-time stock market data streaming using Apache Kafka. The project includes a Kafka producer (`producer.py` and `producer.ipynb`) to simulate stock data generation and a Kafka consumer (`consumer.py` and `consumer.ipynb`) to receive and process the streaming data.
 
+## Architecture Overview
+
+![Project Architecture](./Architecture.png)
+
 ## Files
 
 1. **producer.py**

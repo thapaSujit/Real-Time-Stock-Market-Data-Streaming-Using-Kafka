@@ -69,5 +69,9 @@ This repository demonstrates a simple implementation of real-time stock market d
 ```bash
     $ docker-compose down
 ```
+## Saving Data to Azure Gen2 (Work in Progress)
+The consumer.ipynb is currently configured to print the consumed stock data. Work is in progress to modify the consumer to save the data to Azure Gen2 storage. This will enable a more permanent storage solution for the streaming stock data.
+
+Feel free to explore and customize the scripts based on your requirements.
 
 
